@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RDW Kenteken Check</string>
+    <string name="action_settings">Instellingen</string>
+    <string name="here">Hier</string>
+    <string name="to">Naar</string>
+    <string name="perfect">Zoek kenteken</string>
+    <string name="almost">Bewerk kenteken</string>
+    <string name="photo">Camera</string>
+    <string name="manual">Kenteken</string>
+    <string name="enterManual">Voer kenteken in</string>
+    <string name="findCar">Vind deze auto</string>
+    <string name="photoTxt">Om met een camera naar een kenteken te zoeken, druk op "Camera"</string>
+    <string name="manualTxt">Om het kenteken handmatig in te vullen, druk op "Voer kenteken in"</string>
+    <string name="intro">Dit is een prototype gemaakt voor de Marechaussee in opdracht van Hogeschool Avans Breda</string>
+    <string name="scanbutton">Opnieuw scannen</string>
+    <string name="listbutton">Geef lijst weer</string>
+
+</resources>

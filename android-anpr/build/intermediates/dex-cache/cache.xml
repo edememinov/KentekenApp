@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Edem\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\joda-time-2.3-9b9627ddccc8377a20be395172963fa56a6653d8.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\android-anpr.libraries\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6f4fda122e19270448dcdaf0bdff21ddb6ed78f2">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\classes-6ccf189e42c5a647bc70f3cff54388b9e4557832.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-db8652fb631882b8a6b622a19cb7aa045c847c01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-d862185072d8e0e757fd1db5739936e1493bd2dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0-d862185072d8e0e757fd1db5739936e1493bd2dc.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.0-db8652fb631882b8a6b622a19cb7aa045c847c01.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\classes-044c0ff9075ae106bc1aeb3dc1bf6fadcd972937.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\android-anpr.libraries\opencv\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="6f4fda122e19270448dcdaf0bdff21ddb6ed78f2">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\classes-6ccf189e42c5a647bc70f3cff54388b9e4557832.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4fcf0b1879f8caf497c073e1432d398e9e2988c1">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\classes-044c0ff9075ae106bc1aeb3dc1bf6fadcd972937.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\classes-0e45124790dc8d1cf92cb0d1ed2661ba491a8d11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\classes-0e45124790dc8d1cf92cb0d1ed2661ba491a8d11.jar" />
+    </item>
+    <item
+        jar="C:\Users\Edem\.gradle\caches\modules-2\files-2.1\joda-time\joda-time\2.3\56498efd17752898cfcc3868c1b6211a07b12b8f\joda-time-2.3.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="56498efd17752898cfcc3868c1b6211a07b12b8f">
+        <dex dex="C:\Users\Edem\Desktop\VH8_Proftaak\App 2\android-anpr\app\build\intermediates\pre-dexed\debug\joda-time-2.3-9b9627ddccc8377a20be395172963fa56a6653d8.jar" />
+    </item>
+
+</items>
